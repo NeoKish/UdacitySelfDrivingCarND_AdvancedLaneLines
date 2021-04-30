@@ -12,13 +12,14 @@ Below are files references to images, videos and folder consisting of the output
 
 [//]: # (File References)
 
-[image1]: ./output_images/undist_camera_cal_image_output.png
-[image2]: ./output_images/undistort_test_image_output.png
-[folder1]: ./output_images/Binary_thresholded_images
-[folder2]: ./output_images/Warped_test_images_with_source_points_drawn(without color threshold)
-[folder3]: ./output_images/warped_binary_image_fit_polynomial
-[folder4]: ./output_images/Final_output_images
-[video1]: ./test_videos_output/project_video.mp4 "Video"
+[image1]:       ./output_images/undist_camera_cal_image_output.png
+[image2]:       ./output_images/undistort_test_image_output.png
+[folder1]:      ./output_images/Binary_thresholded_images
+[folder2]:      ./output_images/Warped_test_images
+[folder3]:      ./output_images/warped_binary_image_fit_polynomial
+[folder4]:      ./output_images/Final_output_images
+[video1]:       ./test_videos_output/project_video.mp4
+
 
 
 ### Camera Calibration 
